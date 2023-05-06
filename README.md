@@ -1,6 +1,6 @@
 # 💫 About Me:
-Under Construction 🏗️
-<thisisalia.os@gmail.com>📫
+Under Construction 🏗️ 
+<thisisalia.os@gmail.com> 📫
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Q0120S) [![Github](https://img.shields.io/badge/Github-%231DA1F2.svg?logo=Github&logoColor=white)](https://github.com/Q0120S) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/Q0120S) 
