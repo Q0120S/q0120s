@@ -1,5 +1,4 @@
-# 💫 About Me:
-Under Construction 🏗️ 
+# Under Construction 🏗️
 
 <thisisalia.os@gmail.com> 📫
 
